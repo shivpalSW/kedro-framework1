@@ -1,6 +1,7 @@
 ### Simple demo with Kedro framework
 
-'''1. Create a environment
+1. Create a environment
+'''
 conda create -n kedro_env python=3.8 -y
 '''
 
